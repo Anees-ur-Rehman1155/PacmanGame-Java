@@ -2,7 +2,7 @@
 
 A graphical 2D Pacman game built with Java's native AWT and Swing rendering libraries.
 
-![pacman-ss](https://github.com/user-attachments/assets/9f16553b-9092-4894-b740-b8903ed24fa9)
+![pacman-ss](screenshot.png)
 
 ## Features
 
